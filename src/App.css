@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.App-header {
+  text-align: center;
+  color: antiquewhite;
+}
+
+input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  color: gray;
+}
+
+img {
+  max-width: 100%;
+  max-height: 80vh;
+  margin-top: 20px;
+}
+button {
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #517174;
+}
+
