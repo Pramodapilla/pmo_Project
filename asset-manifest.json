@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pmo_Project/static/css/main.df273c00.css",
+    "main.js": "/pmo_Project/static/js/main.041aa8a7.js",
+    "static/js/592.ac01c9c7.chunk.js": "/pmo_Project/static/js/592.ac01c9c7.chunk.js",
+    "index.html": "/pmo_Project/index.html",
+    "main.df273c00.css.map": "/pmo_Project/static/css/main.df273c00.css.map",
+    "main.041aa8a7.js.map": "/pmo_Project/static/js/main.041aa8a7.js.map",
+    "592.ac01c9c7.chunk.js.map": "/pmo_Project/static/js/592.ac01c9c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df273c00.css",
+    "static/js/main.041aa8a7.js"
+  ]
+}
